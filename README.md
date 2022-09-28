@@ -18,5 +18,5 @@ Utilizando a as tecnologias :
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/97262523/190623327-71e9f8a9-8680-4b36-b10c-0b0c03096a12.png">
+<img src= "https://user-images.githubusercontent.com/97262523/192887690-136d3d5b-5644-4391-a874-457797c81c91.png">
 </div>Este é
