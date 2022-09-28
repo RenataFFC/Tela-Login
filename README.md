@@ -1,7 +1,7 @@
 ## Tela de Login 🙃
 
-Neste projeto desenvolviuma tela de Login
-com uma paleta de cores dark será totalmente responsiva, ou seja ela funciona em tablet, celular, e computador.
+Neste projeto desenvolvi uma tela de Login
+com uma paleta de cores dark e totalmente responsiva, ou seja ela funciona em tablet, celular, e computador.
 
 
 <div align="left">
