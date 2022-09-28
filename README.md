@@ -19,4 +19,7 @@ Utilizando a as tecnologias :
 
 <div align="center">
 <img src= "https://user-images.githubusercontent.com/97262523/192887690-136d3d5b-5644-4391-a874-457797c81c91.png">
-</div>Este é
+</div>
+<div align="center">
+<img src=https://user-images.githubusercontent.com/97262523/192888123-c0821a13-b21e-42f0-ab75-c0861c6fde33.png">
+</div>
